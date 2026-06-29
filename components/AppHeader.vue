@@ -5,7 +5,7 @@
         <div class="header__logo">
           <a href="#">
             <img 
-              src="/5f07cc5d3db5b2c4c8208e7b32e15896d4664c1d.png" 
+              src="/travelpulse-nuxt/5f07cc5d3db5b2c4c8208e7b32e15896d4664c1d.png" 
               alt="Travel Pulse" 
               class="header__logo-img" 
             />
@@ -186,7 +186,7 @@
         
         <div class="modal__title">
           <img 
-            src="/5f07cc5d3db5b2c4c8208e7b32e15896d4664c1d.png" 
+            src="/travelpulse-nuxt/5f07cc5d3db5b2c4c8208e7b32e15896d4664c1d.png" 
             alt="Travel Pulse" 
             class="modal__logo-img" 
           />
@@ -206,21 +206,21 @@
         <div class="modal__social">
           <button class="modal__social-btn">
             <img 
-              src="/87cf34858b96ae3aeead66058ed8bcfc7e2e1978.png" 
+              src="/travelpulse-nuxt/87cf34858b96ae3aeead66058ed8bcfc7e2e1978.png" 
               alt="Facebook" 
               class="modal__social-icon" 
             />
           </button>
           <button class="modal__social-btn">
             <img 
-              src="/7f42d49b6919fba36ba2449fa426a722d691d6c6.png" 
+              src="/travelpulse-nuxt/7f42d49b6919fba36ba2449fa426a722d691d6c6.png" 
               alt="Google" 
               class="modal__social-icon" 
             />
           </button>
           <button class="modal__social-btn">
             <img 
-              src="/042b9d98284a60ff1e53dd66032036cda004c5f7.png" 
+              src="/travelpulse-nuxt/042b9d98284a60ff1e53dd66032036cda004c5f7.png" 
               alt="Apple" 
               class="modal__social-icon" 
             />
