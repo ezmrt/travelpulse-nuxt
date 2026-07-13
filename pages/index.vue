@@ -4,6 +4,7 @@
     <main>
       <PopularDestinations />
       <PopularTours />
+      <PlanTrip />
     </main>
     <AppFooter />
   </div>
